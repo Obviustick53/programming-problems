@@ -69,4 +69,4 @@ class Solution:
 
 solution = Solution()
 
-print(solution.isValid("([)]"))
+print(solution.isValid("((()))"))
